@@ -1,5 +1,6 @@
 # data files are over 100 MB, so leave out for now
-data/ 
+data/01-raw/full-year/
+data/01-raw/full-year.csv
+data/02-prepped/rides-undocked-2023-02-to-2024-01.csv
 data/archive/
-data/full-year/
 layers/
